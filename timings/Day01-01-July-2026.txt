@@ -1,0 +1,47 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+=> 11:00 am - 12:00 pm 
+
+Completing the given task , 
+1) Types of IP Address and their different 
+2) Types of URL 
+
+Along with that exploring different Networking Concept 
+
+=> 1:00 pm - 5:00 pm 
+
+Cisco Networking Beginners 
+
+Covering Topics: 
+
+> Communication Principles - Protocols & Standards 
+> Network Media - Media Types 
+> Internet Protocols - Purpose of IPV4 and IPV6  , Structure , Types
+> Network Components - Switches , Router , Hub 
+> Types of Network Models - TCP/IP , OSI Model and Comparisons
+> Network Segmentation and Theri Benifits , Subnetting , Subnet Mask , Network Address , BroadCast Address , Default Gateways
+> Types of Protocols : DHCP , IP , TCP , UDP , HTTP , HTTPS , FTP , SMTP , Ethernet etc
+
+
+=> 6:00 pm - 7:00 pm 
+
+Revision 
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> Exploring Remaining Networking Topics & Completing the Cisco Networking Beginners Certification 
+=> Python For Begineer: Topics to Cover: Basic Concept and Scripting
+=> Shell Scripting Revision 
+=> Docker Revision 
+=> Git & GitHub Revision 
+=> Exploring AWS Services
+
+
+----------------------------------------
