@@ -1,0 +1,50 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+1) Docker Revision 
+2) Networking Concepts
+
+=> 10:00 am - 12:00 pm 
+
+> Why Docker? The Problem It Solves
+> VM vs Container
+> Docker Architecture
+> Images, Layers & Containers
+
+=> 1:00 pm - 2:00 pm 
+
+Revising the topics that i learned 
+
+=> 2:30 pm - 3:00 pm 
+
+Practical usecase from todays session 
+
+=> 3:00 pm - 6:00 pm 
+
+Covering Remaining Networking Concepts
+
+> Packet Routing between Networks 
+> NAT
+> Gateways to other Networks
+> The ARP process ( inter Network communication process )
+> Static and Dynamic Addressing 
+
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> Python For Begineer: Topics to Cover: Basic Concept and Scripting [ due task ]
+=> Shell Scripting Revision [ due task ]
+=> Docker Remaining Topics and Hands-on Practise 
+=> Git & GitHub Revision [ due task ]
+=> Exploring AWS Services [ due task ]
+
+
+----------------------------------------
