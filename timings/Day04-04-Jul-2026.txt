@@ -1,0 +1,30 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+1) Docker Hands on practise with project 
+2) K8s learning
+
+=> 11:30 am - 3:00 pm 
+
+Docker Project initialization 
+Development 
+Dockerfile creattion
+
+=> 4:00 pm - 5:00 pm 
+
+Reviewing todays session 
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> Practise all Linux Commands along with document review & experimentation  
+=> K8s learning 
+
+----------------------------------------
