@@ -1,0 +1,44 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+1) Hands on with Linux Essential commands , learned till now 
+2) shell Scripting
+
+=> 11:30 am - 5:00 pm 
+
+File Permission & Ownershiph   =>  ls -la , chmod (r-4 , w-2, x-1 , e.g chmod 777 abc.txt  ) , chown , chgrp , umask
+User Management                =>  usermod , adduser , useradd , groups , id , passwd , chage 
+Group Management               =>  chgrp 
+File Compression               => tar, gzip , zip 
+I/O redirection                => > , < , >> , << , 2> , 2>&1 , &> 
+System Performance Monitoring  =>  ps , top , htop , iostat , vmstat , iotop , free , kill , pkill , pgrep , grep 
+System Information             => uname , du , df -sh , hostnamectl , lscpu , lsusb, lspci , journalctl 
+Device Mounting                => /etc/fstab ( helps to automatically mount the diskdrivers , storage partition  during the boot time ) , growpart , resize2fs , xfs_growfs , lsblk
+Search Utility                 => grep , find , which , locate , 
+service Management             => systemctl 
+soft and hard link             => ln 
+
+
+important files: /var/log ( logs for all application ) , /etc/fstab, /etc/passwd , /etc/shadow , /etc/ssh/sshd_config , 
+
+
+=> 6:30 pm - 7:00 pm 
+Reviewing todays session 
+
+=> 9pm => 10pm 
+Overview shell Scripting
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> Revision Everythings that I learn till Now  ( 2 hrs)
+=> Explore K8s and Github action (remaing time )
+
+----------------------------------------
