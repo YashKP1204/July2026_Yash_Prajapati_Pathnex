@@ -1,0 +1,32 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+1) Advance Docker Concepts
+2) Shell Scripting
+
+=> 11:00 am - 3:00 pm 
+
+Docker LifeCycle
+Docker Essential Commands
+Dockerfile 
+Docker volumes , Bind Mounts & tmpfs
+Docker Networking
+Docker Compose 
+
+=> 5:00 pm - 6:00 pm 
+
+Shell Scripting Revision [ due task ]
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> Docker Hands On Project 
+=> K8s Overview 
+
+----------------------------------------
