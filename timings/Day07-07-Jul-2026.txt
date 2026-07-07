@@ -1,0 +1,50 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+1) Git Revision and Learning 
+2) K8s Learnig
+3) Terraform Overview
+
+
+9 am - 11 am 
+=> watch todays recorded video on yt , revise the necessary concepts for git and github 
+=> Essential Git command 
+=> Git and Github difference
+=> Branching strategies 
+=> Important Git interview Questions
+
+1 pm - 5pm 
+=> Kubernetes Overview 
+=> What is Kubernetes and why it is necessary 
+=> K8s meaning and its 8 features 
+=> K8s Architecture ( CWC - control plane , worker nodes , cluster overview )
+=> Core Components 
+=> Pods , Replicaset , Deployment , Rolling Updates and Rollback ( Relation between them )
+=> What is Service in k8s ( ClusterIP , NodePort , load Balancer , Ingress )
+
+----------------------------------------
+
+6pm - 7pm 
+
+=> Overview to Terraform 
+=> Providers , plugins 
+=> Advantages
+=> Deploying strategies using terraform 
+-> State File 
+
+9 pm -10 pm 
+
+=> Updating the Daily task 
+=> Revision what i did the whole day 
+
+## TOMMORROW's TASK
+
+=> K8s learning Continuation 
+=> Exploring Terraform 
+
+----------------------------------------
