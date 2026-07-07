@@ -1,0 +1,33 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+1) Shell Scripting Practical Implication
+2) Continue learning with K8s
+
+=> 12 pm - 5:00 pm 
+
+Shell Scripting automation script to monitory system Performance, 
+Applying cronjobs 
+learning Loops , conditions , functions , date functions , switch cases , script parameters
+
+=> 6:30 pm - 7:00 pm 
+Reviewing todays session 
+
+=> 9pm => 10pm 
+
+K8s learning
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> K8s learning
+=> Github Revision
+
+----------------------------------------
