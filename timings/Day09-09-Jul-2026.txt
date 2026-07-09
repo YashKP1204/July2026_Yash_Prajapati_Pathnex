@@ -1,0 +1,40 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+whole day dedicated for Linux commands and practise , 
+I aimed to do more than linux , but could not do it on time . 
+So i would be doing the remaing tasks tommorrow and try to complete it in time , with exploring other things too.
+
+
+7am - 9am : 10am - 12pm : 1pm - 4pm 
+
+=> Deep Dive to Linux Commands and bifurcating the commands according to different needs 
+=> Covering Interview Questions
+=> Divided command in categories like: 
+=> Process Managements , Disk Management , Networking ,Package management , Scheduling , Log Analysis ,
+ Shell pipeline , Archiving , Environment Variables, User & Group , Boot Process , Memmory , Performance Trouble Shoot. 
+
+=> Researched on Scenario based questions and tried to get hand-on with such commands ,
+
+=> Important files that should be know and their usage in Linux File System 
+=> Learn about systemd as INIT processs and different kind of UNIT present : Timers, service, device , socket etc
+
+5 pm - 7pm 
+
+=> Revise Today's Session and learn important interview Question 
+=> Researched Import questions
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> Covering yesterdays due tasks ( Shell scripting practise, git-github , docker )
+=> Continuing K8s learning
+
+----------------------------------------
