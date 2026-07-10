@@ -1,0 +1,73 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+So I hands on the k8s commands and install the minikube and kubectl ( cli for k8s ) and learn some basic concepts of k8s . 
+
+Apart from that I troubleshoot some necessary concepts realated to linux like the DNS resolution troubleshooting methods the analogy to check 
+which layer is having the issue , 
+Preparing a structure way to analyse things when certain network issue comes in picture. 
+
+
+=>  9am -  12pm : 1pm - 4pm 
+
+Install minikube and kubectl over my vm .
+Worked wit k8s commands : 
+
+kubectl get  nodes, pods, deployments, replicaset , services. 
+kubectl create deployment [name] [image] [options]
+kubectl edit deploynment 
+kubectl logs [ pod name]
+kubectl describe pod [ pod name]
+kubectl exec -it [pod name ] -- /bin/bash
+kubectl apply -f [deployement.yaml]
+
+
+Understanding the structure of writing the deployment.yaml file and the steps to write it , 
+Understandig how the service use to group the pods based on the selector : labels 
+
+> Real life linux DNS resolution scenario : 
+ 
+docker tries to pull image but unable to resolve the hostname , 
+
+Debugging strategy : 
+
+ping ip = > working 
+ping domainname => unable to reach  - working
+Checking network interfase = > ip addr - private ip address ( ethernet )
+checking default gate and ip => ip route - default gateway working 
+manually calling the dns service: nslookup google.com 8.8.8.8
+
+checking the dns resolving service: 
+
+resolvectl status => failed 
+
+/etc/resolve.conf => pointing to the local dns resolver ( systemd resolvd)
+
+/etc/systemd/resolve.conf => no upfront dns 
+
+Added: DNS=8.8.8.8 1.1.1.1
+
+sudo systemctl restart systemd-resolved.service
+
+ping -c google.com - working 
+
+
+=> 6 pm - 8pm 
+
+review today's session 
+
+(dued ) => Covering yesterdays due tasks ( Shell scripting practise, git-github , docker ) (still remaining )
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> ( priority ) => Revise all the AWS service till now ( with some hands-on practise )
+=> Continuing K8s learning
+
+----------------------------------------
