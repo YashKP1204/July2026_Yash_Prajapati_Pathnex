@@ -1,0 +1,35 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+Created a project to get hands on to the k8s 
+Used minikube as a single node cluster with docker as a driver
+created a Mongo-express application . 
+Cluster-Ip service for internal communication , 
+Exposing the port of outer communication , 
+Used Loadbalancer type of Service
+Config Map for : Db-url 
+Secrete for : username, Password, 
+Got an entire View how to write the Yaml file  for K8s service, deployments , configMap , Secret .
+
+
+
+=>  9am -  12pm : 1pm - 4pm 
+
+Created End-to-End K8s project 
+Mongo-express wiht mongodb
+Covereted topics: 
+Deployment , service , configMap , secret , apiserver , etcd , load-balancer
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> K8s learning continusion 
+=> Shell scripting
+
+----------------------------------------
