@@ -1,0 +1,39 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+Today I practise the AWS services and revise all the necessary aws services
+Created a VPC that cover all the necessary aspects to deploye an application. 
+
+
+=>  9am -  12pm : 1pm - 4pm 
+
+VPC creation : 
+CIDR range creation , 
+Bastion Host creation
+Creating public and private subnet 
+Mulitple AZ deployment 
+Auto scaling group - template creation ( minimum , default , maximum capacity )
+SC groups and NACL 
+Load Balancer = ALB with target
+
+Thoroughly learning other aws services and their importance
+
+
+=> 5pm - 6pm 
+
+review today's session 
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> Practising shell scripting 
+=> Continuing K8s learning
+
+----------------------------------------
