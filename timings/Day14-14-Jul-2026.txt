@@ -1,0 +1,26 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+Today I created the K8s Cluster practically gaining experience over AWS EKS , Setting up things like Bastion host 
+to connect to the cluster plane. 
+
+
+
+=>  9am -  12pm : 1pm - 4pm 
+
+Practical Exposure to the EKS service 
+and Revising todays lecture in depth
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> K8s learning continusion 
+=> Shell scripting
+
+----------------------------------------
