@@ -1,0 +1,26 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+So today i revised the important topics that were mentioned in todays class and did hands on to all the important topic for linux
+
+
+
+=>  9am -  12pm : 1pm - 4pm 
+
+Revising the session notes till now . 
+Practising important Linux Command related to Networking : nslookup , dig ,
+Service: systemctl , 
+Searching : sed and awk , find 
+
+
+## TOMMORROW's TASK
+
+=> K8s learning continusion 
+=> Shell scripting
+
+----------------------------------------
