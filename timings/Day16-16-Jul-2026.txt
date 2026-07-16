@@ -1,0 +1,39 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+Whole day just practising and experimenting with the EKS CLUSTER AND finding the important insights.
+
+
+
+=>  9am -  12pm : 1pm - 4pm 
+
+6-9 ( Morining Session)
+11 am - 6pm 
+Hands-on to todays session and learning the key concepts of the K8s
+Understanding of Stateful set 
+Scheduling features provided by the kubernetes and how they work 
+Analyzing the kinds of logs given by the resources . 
+Handling the cases . 
+
+Understanding the entire flow of traffic when a request is made to a service inside a cluster , 
+in both way : using a load balancer with service and ingress with service. 
+Usage of Ingress resource by the Ingress controller 
+to route traffic to proper noted services. 
+Understanding the usecase of Taint and toleration 
+Affinity 
+
+8 pm - 8.30 (Evening class)
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> K8s learning continuasion 
+=> Learning about the upcoming topic. 
+
+----------------------------------------
