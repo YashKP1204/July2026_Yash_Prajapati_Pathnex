@@ -1,0 +1,34 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+Revision to Kubernetes . 
+
+
+
+=>  10am -  12pm : 1pm - 6pm 
+
+Today's task was all about revision to kubernetes
+
+From kubernetes cluster architecture to all the things that have been covered in the 5 classes. 
+
+Along with that prepared some interview ready Question 
+
+E.g : CrashLoop Backoff , Imagepull Backoff, Application Showing different status covered
+
+Prepared Scenario based question , Debugging Strategy to each problem 
+
+Usage of Mesh service (Istio) and how it covers the limitation of ingress 
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> K8s learning continuasion 
+=> Exploring Helm Charts
+----------------------------------------
