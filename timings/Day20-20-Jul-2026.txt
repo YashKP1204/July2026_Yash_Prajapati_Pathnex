@@ -1,0 +1,32 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+Terraform 
+
+
+
+=>  12pm -  1pm  - 7pm 
+
+Cover the basics of Terraform 
+Core Concepts 
+Resource Lifecycle 
+State File management 
+Output & Variables Usecase
+Providers
+Hands on practical by creating a EC2-Instance 
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> K8s learning continuasion 
+=> Exploring Helm Charts
+=> Argo CD
+=> Terraform
+----------------------------------------

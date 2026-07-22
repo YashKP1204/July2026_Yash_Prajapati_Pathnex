@@ -1,0 +1,31 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+Terraform 
+Ansible
+
+
+
+=>  10pm - 12pm - 1pm - 5pm 
+
+Hands-On project to Understand all the Necessar concepts 
+of Terraform . 
+
+=> 5.30 - 8pm 
+
+Todays Lecture Understanding 
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> Terraform Hands-on 
+=> ArgoCD Revision 
+=> Helm Chart Revision 
+=> Ansible
+----------------------------------------
