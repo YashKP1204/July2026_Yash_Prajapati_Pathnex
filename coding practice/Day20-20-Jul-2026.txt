@@ -1,0 +1,116 @@
+# Security , Hardening and Compliance
+
+# Ansible - Configure Firewall with Iptables
+
+- name: Configure Firewall with Iptables
+  hosts: all 
+  become: yes
+  tasks: 
+    - name: Set default policies to drop all traffic
+      command: iptables -P INPUT DROP
+    - name: Allow SSH and HTTP traffic
+      command: iptables -A INPUT -p tcp --dport 22 -j ACCEPT
+    - name: Save iptables cofiguration 
+      command: service iptables Save
+    
+
+# Terraform - Configure Security Groups for EC2 
+
+resource "aws_security_group" "pathnex_sg" {
+    name_prefix = "pathnex-sg-"
+    description = "Allow SSH and HTTP" 
+
+    ingress {
+        from_port = 22
+        to_port = 22
+        protocol = "tcp"
+        cidr_block = ["0.0.0.0/0"]
+    }
+
+    ingress {
+        from_port = 80 
+        to_port = 80 
+        protocol  = "tcp" 
+        cidr_block = ["0.0.0.0/0"]
+    }
+}
+# Kubernetes - RBAC Configuration for Access Control
+
+apiVersion: rbac.authorization.k8s.io/v1
+kind: ClusterRoleBinding
+metadata: 
+    name: pathnex-cluster-admin
+subject: 
+    - kind: User
+      name: pathenx-user
+      apiGroup: rbac.authorization.k8s.io
+roleRef: 
+    kind: ClusterRoleB
+    name: Cluster-admin
+    apiGroup: rbac.authorization.k8s.io
+
+# Jenkinsfile - Secure Credentials Management 
+
+pipeline {
+    agent any 
+    environment {
+        REGISTRY_PASSWORD = credentials('docker-registry-password')
+    }
+    stages {
+        stage('build'){
+            steps {
+                ehco "Building Docker images...'
+                docker.build('pathnex-web-app')
+            }
+        }
+        stage('Push'){
+            steps {
+                script {
+                    docker.withRegistry('https://docker.io' , "docker-creadential"){
+                        docker.image('pahtnex-web-app').push('latest')
+                    }
+                }
+            }
+        }
+    }
+}
+
+# GihLab CI/CD - Secure Deployment wiht Secrets Management 
+
+stages: 
+    - build 
+    - push 
+    - deploy 
+
+build: 
+    stage: build 
+    script: 
+        - docker build -t pathenx-web-app . 
+
+push: 
+    stage: push 
+    scirpt: 
+        - docker login -u "$CI_REGISTRY_USER" -p "$CI_REGISTRY_PASSWORD" 
+        - docker push pathnex-web-app
+
+deploy:
+    stage: deploy 
+    scirpt: 
+        - kuberctl apply -f kubernets/deployment.yaml 
+        - kubectl get pods --watch 
+
+
+# Docker 
+# Docker Networking 
+
+docker network create pathnex-network 
+docker run -dit --name c1 --network pathex-network ubuntu 
+docker run -dit --name c2 --network pathnex-network ubuntu 
+
+
+      
+
+
+
+
+
