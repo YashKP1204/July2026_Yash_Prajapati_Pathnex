@@ -1,0 +1,73 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+Terraform 
+
+
+
+=>  12pm -  1pm  - 7pm 
+
+1. Remote Backend
+2. State Locking (DynamoDB)
+3. Backend State Organization(key)
+4. Terraform Workspaces
+5. Terraform Import 
+6. Terraform CLI Deep Dive 
+7. Terraform Init Deep Dive
+8. Terraform Init Flags
+9. Terraform Plan Deep Dive
+
+Doubts Cleared During learning 
+
+### Remote Backend
+
+-  Does Terraform automatically remove the state lock?
+-  What happens if Terraform crashes while holding a lock?
+-  Why is DynamoDB required when S3 already stores the state?
+-  What is a stale lock?
+-  When should `terraform force-unlock` be used?
+
+### Backend Organization
+
+-  Why shouldn't all Terraform projects use the same state file?
+-  What is the purpose of the `key` parameter?
+-  Can one S3 bucket store multiple state files?
+
+### Workspaces
+
+-  Are Workspaces recommended for Production?
+-  Workspaces vs Separate Environment Directories?
+
+### Import
+
+-  Does `terraform import` create infrastructure?
+-  Does `terraform import` generate `.tf` files automatically?
+
+### Terraform Init
+
+-  Difference between `reconfigure` and `migrate-state`.
+-  When should each init flag be used?
+
+### Terraform Plan
+
+-  Why use `terraform plan -out=tfplan`?
+-  Why not directly use `terraform apply`?
+-  What is the purpose of `target`?
+-  What is the purpose of `replace`?
+-  What are the exit codes returned by `detailed-exitcode`?
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> Terraform Hands-on 
+=> ArgoCD Revision 
+=> Helm Chart Revision 
+=> Upcoming Topic 
+----------------------------------------

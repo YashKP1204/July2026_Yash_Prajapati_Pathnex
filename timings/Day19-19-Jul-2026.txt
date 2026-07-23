@@ -1,0 +1,25 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+GitOps with Argo CD
+
+
+
+=>  10am -  12pm : 1pm - 5pm 
+
+I have learned the ArgoCD and got practical exposure to it. 
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> K8s learning continuasion 
+=> Exploring Helm Charts
+=> Argo CD
+----------------------------------------

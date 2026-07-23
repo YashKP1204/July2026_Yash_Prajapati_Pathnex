@@ -1,0 +1,28 @@
+
+
+----------------------------------------
+
+WHOLE DAY SUMMARY 
+
+Todays learning: 
+
+Helm and Helm Charts 
+
+
+
+=>  10am -  12pm : 1pm - 6pm 
+
+Revised todays Session , 
+hands-on practise to Helm Commands 
+Learn Why it is needed and how to use it . 
+Core structure analysis 
+
+----------------------------------------
+
+
+## TOMMORROW's TASK
+
+=> K8s learning continuasion 
+=> Exploring Helm Charts
+=> Upcoming Topics
+----------------------------------------
